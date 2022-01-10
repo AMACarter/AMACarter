@@ -12,7 +12,7 @@ Currently working on:
 🎮 Swashbuckle - A small indie voxel-style pirate adventure game.  
 📈 Flamingo - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 
-## 🔧 Technologies & Tools
+## 🔧 Toolset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 <a href="#"><img src="https://img.shields.io/badge/Code-C Sharp-_.svg?logo=c&logoColor=white&color=2bbc8a"></a>
