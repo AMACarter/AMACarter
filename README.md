@@ -3,10 +3,14 @@
 
 My name is Adam Carter and I'm an electronic and IOT engineer. I'm from the UK, living in England and currently working at Intel. Aspiring Chartered Electronic Systems Engineer. **IET & Intel Ambassador**. Studying an **MEng in Electronic Engineering** at Royal Holloway.   
 
-Steadily growing into the engineering world...  
+Steadily growing into the engineering world...  Find me on <a href="https://www.linkedin.com/in/amacarter/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=2bbc8a" alt="LinkedIn"></a>
 
-Find me on <a href="https://www.linkedin.com/in/amacarter/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=2bbc8a" alt="LinkedIn"></a>
+## 🖥 Working on
 
+Currently working on:
+
+🎮 Swashbuckle - A small indie voxel-style pirate adventure game.  
+📈 Flamingo - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
