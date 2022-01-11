@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Award winning Young Engineer, Businessman and Leader 
 
 My name is Adam Carter and I'm an electronic and IOT engineer. I'm from the UK, living in England and currently working at Intel. Aspiring Chartered Electronic Systems Engineer. **IET & Intel Ambassador**. Studying an **MEng in Electronic Engineering** at Royal Holloway.   
@@ -9,8 +9,8 @@ Steadily growing into the engineering world...  Find me on <a href="https://www.
 
 Currently working on:
 
-🎮 Swashbuckle - A small indie voxel-style pirate adventure game.  
-📈 Flamingo - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
+🎮 **Swashbuckle** - A small indie voxel-style pirate adventure game.  
+📈 **Flamingo** - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 
 ## 🔧 Toolset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
