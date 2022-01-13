@@ -9,8 +9,8 @@ Steadily growing into the engineering world...  Find me on <a href="https://www.
 
 Currently working on:
 
-🎮 **Swashbuckle** - A small indie voxel-style pirate adventure game.  
-📈 **Flamingo** - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
+🎮 [**Swashbuckle**](https://github.com/AMACarter/Swashbuckle) (private) - A small indie voxel-style pirate adventure game.  
+📈 [**Flamingo**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 
 ## 🔧 Toolset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
