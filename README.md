@@ -11,7 +11,7 @@ Currently working on:
 
 🎮 [**Swashbuckle**](https://github.com/AMACarter/Swashbuckle) (private) - A small indie voxel-style pirate adventure game.  
 📈 [**Flamingo**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
-🖥️ [**ScrapsYard**]() (private) - A marketplace and validation service for second-hand computer hardware.  
+🖥️ [**ScrapsYard**](https://github.com/AMACarter/ScrapsYard) (private) - A marketplace and validation service for second-hand computer hardware.   
 
 ## 🔧 Toolset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
