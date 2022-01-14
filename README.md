@@ -5,7 +5,7 @@ My name is Adam Carter and I'm an electronic and IOT engineer. I'm from the UK, 
 
 Steadily growing into the engineering world...  Find me on <a href="https://www.linkedin.com/in/amacarter/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=2bbc8a" alt="LinkedIn"></a>
 
-## 🖥 Working on
+## ⌨🖱 Working on
 
 Currently working on:
 
