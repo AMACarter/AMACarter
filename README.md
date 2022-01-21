@@ -13,6 +13,8 @@ Currently working on:
 📈 [**Flamingo**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 🖥️ [**TheScrapYard**](https://github.com/AMACarter/TheScrapYard) (private) - A marketplace and validation service for second-hand computer hardware.   
 
+WIP Personal portolio - [**Sneak Peak**](http://adamcarter.engineer/) 
+
 ## 🔧 Toolset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
