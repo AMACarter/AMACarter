@@ -10,7 +10,7 @@ Steadily growing into the engineering world...  Find me on <a href="https://www.
 Currently working on:
 
 🎮 [**Swashbuckle**](https://adamcarter.engineer/Kraken-Studios/swashbuckle/) (private) - A small indie voxel-style pirate adventure game made under [**Kraken Studios.**](https://adamcarter.engineer/Kraken-Studios/)   
-🕹 [**Voxelbara**](https://adamcarter.engineer/Kraken-Studios/) (private) - A small indie voxel-style capybara-themed farming game.  
+🕹 [**Capybara Corp**](https://adamcarter.engineer/Kraken-Studios/) (private) - A small indie voxel-style capybara-themed tycoon game.  
 📈 [**Flamingo**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 🖥️ [**TheScrapYard**](https://github.com/AMACarter/TheScrapYard) (private) - A marketplace and validation service for second-hand computer hardware.   
 
