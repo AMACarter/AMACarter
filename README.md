@@ -12,7 +12,6 @@ Currently working on:
 ☕ [**Coffee Heads**](https://adamcarter.engineer/Kraken-Studios/) (private) - A hyper-stylised coffee brand.  
 🐾 [**Pawsport**](https://adamcarter.engineer/Kraken-Studios/) (private) - A personalised pet passport and tag service.  
 🎮 [**Swashbuckle**](https://adamcarter.engineer/Kraken-Studios/swashbuckle/) (private) - A small indie voxel-style pirate adventure game made under [**Kraken Studios.**](https://adamcarter.engineer/Kraken-Studios/)   
-🕹 [**Capybara Civilization**](https://adamcarter.engineer/Kraken-Studios/) (private) - A personal voxel-style capybara-themed farming game.  
 📈 [**Flamingo**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) - A Trading bot using Artificial Intelligence to identify macroeconomic trends.  
 
 WIP Personal portolio - [**Sneak Peak**](http://adamcarter.engineer/)  
