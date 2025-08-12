@@ -20,7 +20,7 @@
 
 ## 🚧 Currently Working On
 
-- ☕ [**Coffee Heads**](https://adamcarter.engineer/Kraken-Studios/) — Hyper-stylised coffee brand *(private)*
+- ☕ [**Coffee Heads**](https://heads.coffee/) — Hyper-stylised coffee brand *(private)*
 - 🐾 [**Pawsport**](https://adamcarter.engineer/Kraken-Studios/) — Personalised pet passport and tag service *(private)*
 - 🎮 [**Swashbuckle**](https://adamcarter.engineer/Kraken-Studios/swashbuckle/) — Indie voxel pirate adventure *(private)*
 - 📈 [**Flamingo AI**](https://github.com/AMACarter/Flamingo-AI-Stock-Trading-Bot) — AI-based stock trading bot
